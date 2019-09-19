@@ -1,4 +1,4 @@
-#Inverter class provides the model inverters
+#Battery class provides the model for batteries
 class Battery:
     brand = ''
     output_in_ah = 0 # Amp Hours
